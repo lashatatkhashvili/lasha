@@ -33,6 +33,7 @@ import webshop from "./company/webshop.jpg";
 import dropship from "./company/dropship.png";
 import at from "./company/at.png";
 import dolph from "./company/dolph.png";
+import comp from "./comp.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -75,4 +76,5 @@ export {
   dropship,
   at,
   dolph,
+  comp,
 };
