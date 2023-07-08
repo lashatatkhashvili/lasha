@@ -59,7 +59,7 @@ const services = [
   },
   // {
   //   title: "Backend Developer",
-  //   icon: backend,asdasd
+  //   icon: backend,
   // },
   // {
   //   title: "Content Creator",
